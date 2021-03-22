@@ -52,7 +52,11 @@ J'ai perdu beaucoup de temps à vérifier toutes les configurations soft possibl
 Lien vers l'article :
 * non soudé : https://www.az-delivery.fr/products/esp32-d1-mini
 
-Pour l'assemblage, il faut souder les connecteurs femelles **avec les longues pattes** sur les GPIOs intérieurs (blancs). Les GPIOs sont alors reliés ainsi aux différents modules :
+Pour l'assemblage, il faut souder les connecteurs femelles **avec les longues pattes** sur les GPIOs intérieurs (blancs). 
+
+![ESP32 connectors](ESP32_connectors.jpg)
+
+Les GPIOs sont alors reliés ainsi aux différents modules :
 
 | Touch screen | GPIO |
 |-------|------|
